@@ -4,7 +4,6 @@
 
 <h2>🚀 Demo</h2>
 
-[https://abhishekbr28.github.io/Razorpay-clone/](https://abhishekbr28.github.io/Razorpay-clone/)
 
 <h2>Project Screenshots:</h2>
 
