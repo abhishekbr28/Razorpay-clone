@@ -10,11 +10,11 @@
 
 <img src="https://user-images.githubusercontent.com/93610420/232774609-7b457c86-aa20-44a6-abc0-87a68e407dd3.png">
 
-<img src="![ss2](https://user-images.githubusercontent.com/93610420/232774661-292214b5-7db8-49b1-aabc-2d7fcdbf93c4.png)" alt="project-screenshot" width="1337px" height="607px/">
+<img src="https://user-images.githubusercontent.com/93610420/232774661-292214b5-7db8-49b1-aabc-2d7fcdbf93c4.png" alt="project-screenshot" width="1337px" height="607px/">
 
-<img src="![ss3](https://user-images.githubusercontent.com/93610420/232774700-cbb4e7bd-3fe5-4dcd-95d6-00990798a39d.png)" alt="project-screenshot" width="1333px" height="600px/">
+<img src="https://user-images.githubusercontent.com/93610420/232774700-cbb4e7bd-3fe5-4dcd-95d6-00990798a39d.png" alt="project-screenshot" width="1333px" height="600px/">
 
-<img src="![ss4](https://user-images.githubusercontent.com/93610420/232774730-6a5ca281-6173-46c1-8983-e557a1e497c1.png)" alt="project-screenshot" width="1323px" height="594px/">
+<img src="https://user-images.githubusercontent.com/93610420/232774730-6a5ca281-6173-46c1-8983-e557a1e497c1.png" alt="project-screenshot" width="1323px" height="594px/">
 
 <h2>🛠️ Installation Steps:</h2>
 
