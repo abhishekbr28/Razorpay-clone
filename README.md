@@ -62,7 +62,7 @@ npm run dev
 
 
 💻 Built with
-Technologies used in the project:
+
 
 We will be using these tools:
 .VSCode for our code editor
